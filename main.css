@@ -1,7 +1,15 @@
+body {
+  background-image: url("ch_flag.gif");
+  background-repeat: repeat-x;
+}
+
 h1 {
   background-color: green;
 }
 
+h3 {
+  background-colour: yellow;
+}
 div {
   background-color: lightblue;
 }
