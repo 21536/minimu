@@ -1,7 +1,8 @@
 body {
-    background-color: #cbff6a;
-    font-size: 100%;
+  background-image: url("ch_flag.gif");
+  background-repeat: repeat-x;
 }
+
 h1 {
     font-size: 200%;
     text-align: center;
