@@ -1,19 +1,23 @@
 body {
-  background-image: url("ch_flag.gif");
-  background-repeat: repeat-x;
+    background-color: #cbff6a;
+    font-size: 100%;
 }
-
 h1 {
-  background-color: green;
+    font-size: 200%;
+    text-align: center;
+    font-size:3vw;
 }
-
-h3 {
-  background-colour: yellow;
-}
-div {
-  background-color: lightblue;
-}
-
 p {
-  background-color: yellow;
+    font-size: 1.5vw;
+}
+h3 {
+    font-size: 1.9vw;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    color: #bc1313;
+    font-size: 
+
+
 }
