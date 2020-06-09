@@ -1,5 +1,9 @@
-body {
+header {
   background-image: url("ch_flag.gif");
+}
+
+body {
+  
 }
 
 h1 {
@@ -15,7 +19,5 @@ h3 {
     text-align: center;
 }
 footer {
-    text-align: center;
-    color: #bc1313;
-    font-size:  
+      background-image: url("ch_flag.gif");
 }
