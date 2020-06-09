@@ -1,23 +1,63 @@
-header {
-  background-image: url("ch_flag.gif");
-}
-
 body {
-  background-colour: #cbff6a;
+    background-color: #cbff6a;
+    font-size: 100%;
 }
-
 h1 {
     font-size: 200%;
     text-align: center;
     font-size:3vw;
 }
 p {
-    font-size: 1.5vw
+    font-size: 1.5vw;
+    padding-left: 80px;
+    padding-right: 80px
 }
 h3 {
     font-size: 1.9vw;
     text-align: center;
 }
 footer {
-      background-image: url("ch_flag.gif");
+    text-align: center;
+    color: #000000;
+    font-size:; 
+}
+.spf {
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+}
+
+li {
+    float: left;
+    font-size: 50px;
+    padding-right: 5%;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+    margin: 0px
+}
+
+li a:hover:not(.active) {
+    background-color: #3f4a2b;
+}
+
+.active {
+    background-color: #084a0b;
+}
+
+img.banner {
+    padding-top: 7px;
+    padding-left: 7px;
+    margin: 0px;
 }
