@@ -58,13 +58,13 @@ li a:hover:not(.active) {
 
 
 .special {
-    padding: 0px, 0px, 0px, 0px
+    padding: 0px, 0px, 0px, 0px;
     
     margin: 0px;
 }
 .bannerIMG {
-    width: 32.8;
-    height: 10
+    width: 32.8vw;
+    height: 10vw;
     
 }
 .titleText {
