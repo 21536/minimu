@@ -62,3 +62,13 @@ li a:hover:not(.active) {
     
     margin: 0px;
 }
+.bannerIMG {
+    width: 32.8vw;
+    height: 10vw
+    
+}
+.titleText {
+    margin: 10;
+    padding: 20px;
+    color: #ffffff;
+}
